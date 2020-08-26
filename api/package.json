@@ -1,0 +1,35 @@
+{
+  "name": "service_layer",
+  "version": "1.0.0",
+  "description": "Node js service layer design pattern",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adam080880/express_service_layer.git"
+  },
+  "keywords": [
+    "Design",
+    "Pattern",
+    "Service",
+    "Layer",
+    "MVC",
+    "Express",
+    "JS"
+  ],
+  "author": "Muhamad Adam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adam080880/express_service_layer/issues"
+  },
+  "homepage": "https://github.com/adam080880/express_service_layer#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "validator": "^13.1.1"
+  }
+}
